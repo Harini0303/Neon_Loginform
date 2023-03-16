@@ -6,4 +6,3 @@
 
 <p> The icons are used from the website <a href="https://ionic.io/ionicons">Ionicons.</a> </p>
 
-<h3>Link:</h3> https://harini0303.github.io/Neon_Loginform/
